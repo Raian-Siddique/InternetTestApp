@@ -87,7 +87,7 @@ public class MainActivity extends AppCompatActivity {
                     finishAndRemoveTask();
                 }
             })
-            // 2 button ends here
+            // 2 button ends here ----
 
 
             .show();
